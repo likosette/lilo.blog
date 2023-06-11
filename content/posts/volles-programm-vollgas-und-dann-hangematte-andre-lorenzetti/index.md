@@ -46,6 +46,8 @@ Inzwischen ist für die meisten Schüler\*innen der Schultag zu Ende. Nicht so a
 Was aber nicht heisst, dass Humor keinen Platz hat: Im Gegenteil, immer wieder ertönt Lorenzettis tiefes, volles Lachen, etwa nachdem er das Reportageteam als „rasende Reporter“ vorgestellt hat. Zudem fällt einem wie auch schon bei der Rektoratssitzung am Morgen, dem Klassenbesuch am Vormittag und dem Workshop am Nachmittag der Mix zwischen Standardsprache und Analogien und Bemerkungen auf Mundart auf. So hörten die Schüler während dem Klassenbesuch von ihm immer wieder: „Lorenzetti, sträng di a.“ Die Sitzung der Findungskommission für die Mensanachfolge ist eine rege Diskussion, jeder meldet sich zu Wort. Als Aussenstehende bekommen die „rasenden Reporter“ das Gefühl, diese Sitzung sei das, was Lorenzetti unter „Austausch fördern“ versteht. Ihm ist wichtig, dass alle ihre Meinungen offen kommunizieren. Zweimal meint er dann aber doch, er wolle diese spezifische Diskussion abbrechen. Es wirkt, als seien diese ihm zu banal. Ein Punkt ist für den Rektor aber sehr klar: Trotz der komplizierten Situation ist es wichtig, dass alle Verfahren korrekt wie vom Kanton vorgegeben ablaufen.
 
 > ## «Die Qualität der Arbeit wird durch die zur Verfügung stehende Zeit bestimmt.»
+>
+> *André Lorenzetti*
 
 Nach einem ersten offenen Teil der Sitzung werden jetzt Kärtchen mit Muss- und Kann-Bedingungen für die neue Mensa geschrieben. Sein Blick nimmt immer wieder nachdenkliche Züge an, dieses Preis-Leistungs-Verhältnis sei schon ein Dilemma, raunt er seinem Sitznachbar zu. Als kaum einer Kann-Bedingungen aufschreibt, meint er, er brauche noch mehr von jenen Kärtchen, die etwas mehr „Ghirnschmalz“ verlangen. Am Ende gibt es - wie so oft bei Lorenzetti - eine Feedback-Runde. Als ein Kärtchen von der Mehrheit kritisiert wird, zerreißt er es kurzerhand. Kaum ist die Sitzung für beendet erklärt, steht das Reporter*innenteam vor der Tür, denn zum Abschluss des Tages ist noch ein Interview vorgesehen.
 
@@ -53,7 +55,9 @@ Nach einem ersten offenen Teil der Sitzung werden jetzt Kärtchen mit Muss- und 
 
 Als die letzten Schüler*innen das Schulhaus verlassen, geht ein anstrengender Tag auch für den Rektor zu Ende. Wird es Lorenzetti eigentlich nie zu viel? «Nein, und ich habe mein Frühwarnsystem kennengelernt. Wenn ich eine Woche lang jeden Morgen um fünf aufwache, dann ist etwas nicht mehr gut.» Das sei ihm aber schon lange nicht mehr passiert. Zudem findet er, er sei eigentlich nie gestresst, er habe nur manchmal sehr viel zu tun. Für Lorenzetti ist die Work-Life-Balance ein Quatsch: «Als ob man nicht leben würde, während man arbeitet. Das geht doch nicht, schon gar nicht an einer Schule!» Und auf die Frage, warum er denn nicht weniger arbeite, antwortet er: «Am Ende des Tages sind es die Menschen. Da sind ganz viele tolle Menschen in diesem Haus, für die es sich lohnt, sich zu engagieren.» Übers Jahr gesehen arbeite er trotz Schulferien tatsächlich etwas zu viel. Und er schiebt nach, er könne durchaus auch gut nichts machen. Für ihn heisst das, in der Hängematte liegen und lesen.
 
-# «Am Ende des Tages sind es die Menschen. Da sind ganz viele tolle Menschen in diesem Haus, für die es sich lohnt, sich zu engagieren.»
+> ## «Am Ende des Tages sind es die Menschen. Da sind ganz viele tolle Menschen in diesem Haus, für die es sich lohnt, sich zu engagieren.»
+>
+> *André Lorenzetti* 
 
 Obwohl Lorenzetti den Job als Rektor liebt, gibt es natürlich auch Bereiche, die ihm weniger gut gefallen. Dazu gehören vor allem jegliche Arten von Trennungen, sei es von Schüler*innen oder von Lehrpersonen. Es helfe in solchen Momenten, den Schulleiter als Rolle zu betrachten, um unabhängiger entscheiden zu können. So falle es ihm einfacher, auch unpopuläre Entscheidungen zu treffen. Sowieso sei es ihm egal, was andere von ihm denken, denn er handle nicht für seinen Ruf. Jeder und jede dürfe erzählen über ihn, was er oder sie will. Einzige Bedingung: Das Gesagte stimmt.
 
@@ -72,3 +76,23 @@ Andererseits ist er auch sportlich aktiv. Diesbezüglich sei der Lockdown im Fr�
 Inzwischen ist es spät und Lorenzetti will nun nach Hause. Auch das gemeinsame Abendessen mit seiner Frau hat für ihn einen hohen Stellenwert. „Das Abendessen ist die Zeit, wo wir zum Sprechen kommen.“ Eine abschliessende Frage liegt aber noch drin: Wo er den Gymer in fünf Jahren sieht und was seine Ziele bis dann sind. Ziel Nummer 1 sei und bleibe möglichst gute Rahmenbedingungen für die Schüler\*innen zu schaffen. Aktuell gehe es darum, mehr Schulraum zu finden, denn der Gymer Kirchenfeld sei eigentlich viel zu klein für so viele Schüler\*innen. Zusätzlich komme noch das 100-jährige Jubiläum des Gymnasiums Kirchenfeld im Jahr 2026 dazu. Es sei sein Ziel, hierfür ein schönes Fest zu organisieren. Zudem wolle er die Schulleitung so aufbauen, dass sie das Tagesgeschäft allein bewältigen könne und er als Rektor sich primär mit der Ressourcenplanung, dem „Aussenministerium“ und intern mit Sonderfällen beschäftigen könne. Also mit all diesen Fällen, die viel Arbeit und Flexibilität erfordern. Jene Fälle also, die wie geschaffen sind für Lorenzetti.
 
 <!--EndFragment-->
+
+{{<box title= "Auszug aus dem Interview mit André Lorenzetti">}}
+
+*Sie haben ja viel gemacht in ihrem Leben. Wie genau hat Ihre Karriere angefangen?*
+
+André Lorenzetti: Ich habe nicht den Eindruck eine Karriere gemacht zu haben. Ich habe einfach immer „Ja“ gesagt und mich ab und zu angeboten. \[…] Ich habe auch nicht den Eindruck, Rektor sein sei etwas Besonderes. Es ist eine vorgegebene Rolle, in der in mich einigermassen, nein, sehr wohl fühle. Aber ich könnte auch andere Dinge machen und bin der felsenfesten Überzeugung, dass andere Personen diese Rolle ebenso gut oder sogar noch besser ausfüllen würden. Der Beginn meiner Rektorlaufbahn festzumachen ist fast unmöglich, denn vermutlich sind alle Erfahrungen mehr oder weniger wertvoll gewesen, um diese spannende Arbeit jetzt machen zu können.
+
+*Sie sind im Militär immer noch sehr aktiv, sind gleichzeitig Rektor und Musiklehrer, spielen Trompete haben einen eigenen Chor. Wie bringen sie da alles unter einen Hut?*
+
+Also ehrlich gesagt: gar nicht: Der Tag hat zu wenig Stunden, die Wochen zu wenig Tage, das Jahr zu wenig Wochen. Es ist wirklich schwierig genug Zeit für alles zu finden. Daher geht es darum, innerhalb eines Jahres eine vernünftige Balance zu finden. Die Monokultur tut mir nicht gut und deshalb sorge ich in der langfristigen Planung dafür, dass meine Tätigkeiten einigermassen ausgeglichen sind.
+
+*Würden sie sagen, dass Sie als Rektor eher ein Einzelkämpfer oder ein Teamplayer sein müssen?*
+
+Unbedingt beides. In gewissen Situationen ist man als Rektor\*in allein, einsam, auf sich selbst gestellt. Das muss man aushalten können. Noch besser ist es, wenn dieser Zustand einem auch gefällt. Und dann ist man gleichzeitig Teamplayer. Wir sind 10 Rektor\*innen im Kanton Bern, die ein Team bilden. Wir sind hier ein Team und arbeiten intensiv zusammen. Deshalb unbedingt beides. Und das Gute ist, ich bin für beides -Einzelkämpfer und Teamplayer- ausgebildet.
+
+*Sie besuchen ja viel auch die Schüler*innen, wie wichtig ist das Ihnen?*
+
+Das ist mir enorm wichtig, denn die Schüler\*innen sind das Wichtigste an der Schule. Ich habe gehört, dass Leute im MN-Lehrerzimmer gefragt haben sollen: „Ja, interessiert der sich überhaupt für uns? Der geht ja immer nur zu den Schüler\*innen.“ Ja, ich interessierten mich auch für die Lehrpersonen! Aber tatsächlich sind mir die Schüler\*innen noch ein bisschen wichtiger. Denn wir alle, auch die Lehrpersonen, sind ja da, damit die Schüler\*innen ihre Ziele erreichen können.
+
+{{</box>}}

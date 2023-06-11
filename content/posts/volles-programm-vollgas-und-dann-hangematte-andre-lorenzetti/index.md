@@ -37,6 +37,16 @@ Lorenzetti hält sich auch hier strikt an seinen Zeitplan und als doch mal fünf
 
 <!--EndFragment-->
 
+{{<box title="Werdegang">}}
+
+André Lorenzetti wurde am 22.Juni.1966 in Santander, Spanien, als Sohn eines Sekundarlehrers und einer Primarlehrerin geboren. Nach der obligatorischen Schulzeit machte er die Matura Typus C an der Kantonsschule Schaffhausen und studierte Mathematik, Chemie und Musik an der Universität und dem Konservatorium Bern. André Lorenzetti unterrichtete 16 Jahre an einer Volksschule, bevor er 2003 ans Gymnasium Interlaken wechselte. Dort stieg er bis zum Rektor auf, ehe er 2013 Abteilungsleiter MN am Gymnasium Kirchenfeld wurde. Seit 2022 ist er als Rektor das gesamtverantwortliche Mitglied der Schulleitung am Gymnasium Kirchenfeld. Zudem ist André Lorenzetti seit 2020 Vorsitzender der Konferenz der Schulleitungen der Agglomeration Bern (RAB) und seit 2021 Mitglied des Vorstandes der Konferenz der Schweizerischen Gymnasialrektor*innen (KSGR). Parallel dazu ist er immer noch im Militär als Kommunikations- und Managementtrainer tätig und leitet in diesen Funktionen mehrmals jährlich Krisenmanagementtrainings.
+
+<!--StartFragment-->
+
+{{</box>}}
+
+
+
 #### Die Findungskommision
 
 Inzwischen ist für die meisten Schüler\*innen der Schultag zu Ende. Nicht so aber für Lorenzetti. Jetzt steht nämlich noch eine Sitzung der Findungskommision für die Nachfolge der Mensa an, die in diesen Tagen wichtigste und dringendste Angelegenheit. Das Thema ist nicht ganz einfach. Es geht darum, eine neue Mensabetreiberin zu finden, da die bisherige Betreiberin, die Von Oettinger AG, auf Ende Schuljahr gekündigt hat. Es sind noch viele Fragen offen und der Prozess der Findung steht noch am Anfang, während die Zeit unermüdlich vorwärtsschreitet. «Es wäre nicht gut, wenn die Schüler\*innen nach den Sommerferien am Morgen in der Mensa keine Schoggigipfeli bekämen», meint Lorenzetti. Dementsprechend konzentriert ist die Stimmung an der Sitzung. Niemand redet um den heissen Brei herum, man will vorankommen. 
@@ -45,9 +55,13 @@ Inzwischen ist für die meisten Schüler\*innen der Schultag zu Ende. Nicht so a
 
 Was aber nicht heisst, dass Humor keinen Platz hat: Im Gegenteil, immer wieder ertönt Lorenzettis tiefes, volles Lachen, etwa nachdem er das Reportageteam als „rasende Reporter“ vorgestellt hat. Zudem fällt einem wie auch schon bei der Rektoratssitzung am Morgen, dem Klassenbesuch am Vormittag und dem Workshop am Nachmittag der Mix zwischen Standardsprache und Analogien und Bemerkungen auf Mundart auf. So hörten die Schüler während dem Klassenbesuch von ihm immer wieder: „Lorenzetti, sträng di a.“ Die Sitzung der Findungskommission für die Mensanachfolge ist eine rege Diskussion, jeder meldet sich zu Wort. Als Aussenstehende bekommen die „rasenden Reporter“ das Gefühl, diese Sitzung sei das, was Lorenzetti unter „Austausch fördern“ versteht. Ihm ist wichtig, dass alle ihre Meinungen offen kommunizieren. Zweimal meint er dann aber doch, er wolle diese spezifische Diskussion abbrechen. Es wirkt, als seien diese ihm zu banal. Ein Punkt ist für den Rektor aber sehr klar: Trotz der komplizierten Situation ist es wichtig, dass alle Verfahren korrekt wie vom Kanton vorgegeben ablaufen.
 
+
+
 > ## «Die Qualität der Arbeit wird durch die zur Verfügung stehende Zeit bestimmt.»
 >
 > *André Lorenzetti*
+
+
 
 Nach einem ersten offenen Teil der Sitzung werden jetzt Kärtchen mit Muss- und Kann-Bedingungen für die neue Mensa geschrieben. Sein Blick nimmt immer wieder nachdenkliche Züge an, dieses Preis-Leistungs-Verhältnis sei schon ein Dilemma, raunt er seinem Sitznachbar zu. Als kaum einer Kann-Bedingungen aufschreibt, meint er, er brauche noch mehr von jenen Kärtchen, die etwas mehr „Ghirnschmalz“ verlangen. Am Ende gibt es - wie so oft bei Lorenzetti - eine Feedback-Runde. Als ein Kärtchen von der Mehrheit kritisiert wird, zerreißt er es kurzerhand. Kaum ist die Sitzung für beendet erklärt, steht das Reporter*innenteam vor der Tür, denn zum Abschluss des Tages ist noch ein Interview vorgesehen.
 
@@ -55,9 +69,13 @@ Nach einem ersten offenen Teil der Sitzung werden jetzt Kärtchen mit Muss- und 
 
 Als die letzten Schüler*innen das Schulhaus verlassen, geht ein anstrengender Tag auch für den Rektor zu Ende. Wird es Lorenzetti eigentlich nie zu viel? «Nein, und ich habe mein Frühwarnsystem kennengelernt. Wenn ich eine Woche lang jeden Morgen um fünf aufwache, dann ist etwas nicht mehr gut.» Das sei ihm aber schon lange nicht mehr passiert. Zudem findet er, er sei eigentlich nie gestresst, er habe nur manchmal sehr viel zu tun. Für Lorenzetti ist die Work-Life-Balance ein Quatsch: «Als ob man nicht leben würde, während man arbeitet. Das geht doch nicht, schon gar nicht an einer Schule!» Und auf die Frage, warum er denn nicht weniger arbeite, antwortet er: «Am Ende des Tages sind es die Menschen. Da sind ganz viele tolle Menschen in diesem Haus, für die es sich lohnt, sich zu engagieren.» Übers Jahr gesehen arbeite er trotz Schulferien tatsächlich etwas zu viel. Und er schiebt nach, er könne durchaus auch gut nichts machen. Für ihn heisst das, in der Hängematte liegen und lesen.
 
+
+
 > ## «Am Ende des Tages sind es die Menschen. Da sind ganz viele tolle Menschen in diesem Haus, für die es sich lohnt, sich zu engagieren.»
 >
 > *André Lorenzetti* 
+
+
 
 Obwohl Lorenzetti den Job als Rektor liebt, gibt es natürlich auch Bereiche, die ihm weniger gut gefallen. Dazu gehören vor allem jegliche Arten von Trennungen, sei es von Schüler*innen oder von Lehrpersonen. Es helfe in solchen Momenten, den Schulleiter als Rolle zu betrachten, um unabhängiger entscheiden zu können. So falle es ihm einfacher, auch unpopuläre Entscheidungen zu treffen. Sowieso sei es ihm egal, was andere von ihm denken, denn er handle nicht für seinen Ruf. Jeder und jede dürfe erzählen über ihn, was er oder sie will. Einzige Bedingung: Das Gesagte stimmt.
 

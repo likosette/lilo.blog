@@ -4,6 +4,7 @@ date = "2023-06-11"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage"]
+image = "titelbild.jpg"
 +++
 {{<lead>}}
 

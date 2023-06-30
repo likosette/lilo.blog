@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Lisette König"
-image = ""
+image = "/media/cow.jpg"
 url = "/about/"
 +++

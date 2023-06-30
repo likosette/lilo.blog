@@ -1,6 +1,6 @@
 +++
 headless = true
-title = "My Name"
+title = "Lisette König"
 description = "..."
 footerLeft = ""
 footerRight = ""

@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "l-attentat.jpg"
 +++
-
-
 ## **L'auteur**
 
 * Yasmina Khadra – nom real : Mohammed Moulessehoul
@@ -33,13 +31,9 @@ Les thèmes du livre sont :
 * Processus de deuil quand une personne importante est morte. 
 * La discrimination
 
-
 Ce livre est écrit de la perspective d’Amine. Donc on a une vue subjective et on ne sait pas, si les choses qui ont passé sont vrai. Additionnel, le livre nous monte jusque le côté de la personne Palestine. 
 
 
-
-
-*
 
 ## **Notre opinion :**
 

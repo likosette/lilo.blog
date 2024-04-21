@@ -40,7 +40,4 @@ Ich habe diesen Text mit Hilfe der KI ChatGPT und dem Skript « Der deutsche Ide
 
 ##### Quellen:
 
-Philosophie für Zwischendurch: Die Welt ist Geist | quell-online.de (quellonline.de)
-
-
-Deutsch Skirpt
+Philosophie für Zwischendurch: Die Welt ist Geist | quell-online.de (quellonline.de), Deutsch Skirpt

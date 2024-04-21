@@ -45,6 +45,8 @@ Ein Ort, bei dem sich kritisches Denken lohnt, ist Social Media. Allein auf YouT
 
 ![https://www.youtube.com/watch?v=FYauRAnA7f0](unbenannt.png)
 
+![https://www.youtube.com/watch?v=a33ma-K3rG0](unbenannt2.png)
+
 ### Quellenangabe: 
 
 

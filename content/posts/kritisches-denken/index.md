@@ -4,7 +4,7 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["Kritisches", "Denken", "Deutsch"]
-image = "https://media.istockphoto.com/id/1173726696/vector/brain-with-3d-glasses-illustration-isolated-on-blue-bg.jpg?s=612x612&w=0&k=20&c=QV6R-nz1hxz33G_RzmE_I86Yr6JRkhCjnXRCOTppyJM="
+image = "istockphoto-1173726696-612x612.jpg"
 +++
 
 

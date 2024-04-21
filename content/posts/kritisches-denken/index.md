@@ -51,4 +51,6 @@ Ein Ort, bei dem sich kritisches Denken lohnt, ist Social Media. Allein auf YouT
 
 
 YouTube Statistiken: 10 spannende Fakten für das Jahr 2023 (oberlo.de)
+
+
 Skript „Kritisches Denken“

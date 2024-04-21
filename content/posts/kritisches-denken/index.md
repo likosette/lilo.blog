@@ -41,7 +41,7 @@ Kognitive Verzerrungen sind Denkmuster, die die Sicht auf die Realität verzerre
 
 Ein Ort, bei dem sich kritisches Denken lohnt, ist Social Media. Allein auf YouTube werden stündlich 500 Stunden Videomaterial hochgeladen. Darunter befinden sich Musikvideos, Schmink-tutorials, Vlogs und etliche Recherchebeiträge – manche gut, andere weniger gut recherchiert. Die Videos werden einem dank dem Algorithmus für den User nach seinem Interesse vorgeschlagen. Durch dieses spezifische Aussuchen bewegt sich der User nur in seiner Bubble und wird weiter in seinem Glauben sowie seiner Meinung bestätigt. Doch mit Abstand das grösste Problem ist, dass alle die Möglichkeit haben ihren Senf hinzuzugeben und die meisten dies noch tun. Dafür muss die Person nicht einmal selbst ein Video hochladen, sondern kann in den Kommentaren sein Halbwissen preisgeben. Das führt zu tonnenweisen logischen Fehlschlüssen und kognitive Verzerrungen, wie an folgenden Bespielen zu sehen ist: 
 
-![https://www.youtube.com/watch?v=L8ZglQ4hesc](unbenannt.png)
+![https://www.youtube.com/watch?v=L8ZglQ4hesc](unbenannt1.png)
 
 ![https://www.youtube.com/watch?v=FYauRAnA7f0](unbenannt.png)
 

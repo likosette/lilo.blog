@@ -36,3 +36,8 @@ Hegels Idealismus ist daher nicht eine alte Vorstellungsweise, die längst schon
 
 Ich habe diesen Text mit Hilfe der KI ChatGPT und dem Skript « Der deutsche Idealismus» verfasst. ChatGPT hat mir geholfen meine Ideen zu strukturieren und auszufeilen. Den Text habe ich schlussendlich selbst geschrieben, aber gelegentlich für mögliche Formulierungen den Chat gefragt. Die Informationen habe ich aus dem ausgeteilten Skript sowie einer Onlineseite (Quellenangabe). Durch das Schreiben dieses Textes habe ich mich noch einmal mit dem Idealismus auseinander gefasst und bin mir über die Komplexität des Themas bewusst geworden. Ich habe aber das Gefühl, mit Hilfe des Schreibens das Kaos ein bisschen geglättet zu haben. 
 
+{{</box>}}
+
+##### Quellen:
+Philosophie für Zwischendurch: Die Welt ist Geist | quell-online.de (quellonline.de)
+Deutsch Skirpt

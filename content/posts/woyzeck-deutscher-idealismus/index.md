@@ -12,7 +12,6 @@ In den letzten Wochen lasen wir das von Büchner verfasste Fragment Woyzeck, das
 
 Eine führende Person für den deutschen Idealismus war Georg Wilhelm Friedrich Hegel. Hegel sprach von einer Weltvernunft als den universellen Geist, sprich Vernunft, die die Entwicklung der Weltgeschichte lenkt. Für Hegel bestimmt die Weltvernunft, warum die Welt so organisiert ist– also so ist, wie sie ist – und gewisse Ereignisse in der Weltgeschichte geschehen mussten. Denn nur so kann der ideale Zustand erreicht werden. Die Weltvernunft hat Hegel dort gesehen, wo die Macht vorzufinden ist. 
 
-
 Die Weltvernunft entwickelt sich fortschreiten und dialektisch. Dialektisch in dem Sinne, dass etwas Unvollkommenes (These) auf ein ebenfalls unvollkommenes Einzelnes (Antithese) trifft und zusammen zu einem neuem (Synthese) werden. Diese Synthese kann im Verlauf der Zeit auf wieder auf eine Antithese treffen und sich so fortlaufend weiterentwickeln. 
 
 ![Beispiel Prinzip der Dialektik](unbenannt.png)
@@ -33,6 +32,7 @@ Ein weiter Aspekt des deutschen Philosophen, der heute noch gilt: Wissen ist rel
 
 Hegels Idealismus ist daher nicht eine alte Vorstellungsweise, die längst schon abgeschrieben wurde, sondern immer noch in unserem heutigen Alltag und Herangehensweisen vorzufinden
 
-```
+{{<box title= "Text über Text">}}
 
-```
+Ich habe diesen Text mit Hilfe der KI ChatGPT und dem Skript « Der deutsche Idealismus» verfasst. ChatGPT hat mir geholfen meine Ideen zu strukturieren und auszufeilen. Den Text habe ich schlussendlich selbst geschrieben, aber gelegentlich für mögliche Formulierungen den Chat gefragt. Die Informationen habe ich aus dem ausgeteilten Skript sowie einer Onlineseite (Quellenangabe). Durch das Schreiben dieses Textes habe ich mich noch einmal mit dem Idealismus auseinander gefasst und bin mir über die Komplexität des Themas bewusst geworden. Ich habe aber das Gefühl, mit Hilfe des Schreibens das Kaos ein bisschen geglättet zu haben. 
+

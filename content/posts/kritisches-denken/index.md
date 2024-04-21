@@ -24,13 +24,21 @@ Informale Fehlschlüsse betreffen die inhaltliche Qualität der Prämissen. Dies
 Beispiel: Alle Menschen liebe Brokkoli. Peter ist ein Mensch. Also liebt er Brokkoli.
 
 Wichtige informale Fehlschlüsse: 
+
+
 *Angriff auf die Person:* Eine Eigenschaft der Person wird angegriffen, nicht deren Argument.
+
+
 *Argument der Beliebtheit:* Wenn etwas beliebt ist, ist es gültig, sprich richtig.
+
+
 *Strohmann-Argument*: Eine verzerrte Version des Argumentes wird angegriffen.
 
 Kognitive Verzerrungen sind Denkmuster, die die Sicht auf die Realität verzerren. Sie entstehen, da die Menschen annehmen das alles Stimmt, was unser Gehirn aus den teils im Unterbewusstsein aufgenommen und verarbeitet hat. 
 
 *Bestätigungsfehler*: Die neue Information wird so verarbeitet, dass sie unsere bestehende Erwartung erfüllt.
+
+
 *Dunning-Kruger-Effekt*: Person mit wenig Kompetenz auf einem Gebiet überschätzen diese. Personen mit höheren Kompetenzen unterschätzen sich.
 
 ### 

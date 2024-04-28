@@ -6,6 +6,10 @@ pinned = false
 tags = ["Kritisches", "Denken", "Deutsch"]
 image = "istockphoto-1173726696-612x612.jpg"
 +++
+![https://greatergood.berkeley.edu/article/item/what_political_polarization_looks_like_in_the_brain](istockphoto-1173726696-612x612.jpg)
+
+
+
 Im Verlauf des diesigen Quartales haben wir – die M25c – im Deutschunterricht das kritische Denken vertieft angeschaut. Wieso brauchen wir kritisches Denken? Wann ist eine geeignete Situation kritisch zu denken? Und was genau ist überhaupt kritisches Denken?
 
 ### Kritisches Denken:
@@ -47,10 +51,8 @@ Ein Ort, bei dem sich kritisches Denken lohnt, ist Social Media. Allein auf YouT
 
 ![https://www.youtube.com/watch?v=a33ma-K3rG0](unbenannt2.png)
 
-### Quellenangabe: 
-
+### Quellenangabe:
 
 YouTube Statistiken: 10 spannende Fakten für das Jahr 2023 (oberlo.de)
-
 
 Skript „Kritisches Denken“

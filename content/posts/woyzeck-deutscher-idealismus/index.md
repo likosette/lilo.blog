@@ -8,7 +8,7 @@ image = "hegel.jpeg"
 +++
 ![https://www.faz.net/aktuell/feuilleton/debatten/deutscher-idealismus-hegels-welt-von-juergen-kaube-16904802.html](hegel.jpeg)
 
-In den letzten Wochen lasen wir das von Büchner verfasste Fragment Woyzeck, das zur Zeit des Frührealismus geschrieben wurde. Unser Ziel war, das Fragment werkübergreifend zu analysieren. Deshalb befassten wir uns mit der Zeitepoche, in der Woyzeck geschrieben wurde: den Frührealismus. Um den Frührealismus richtig zu verstehen, mussten wir uns mit dem deutschen Idealismus auseinandersetzen, der von Philosophen geprägt wurde.  Die Philosophen waren der Meinung, dass das Denken und die Vernunft massgebend sind, um die Wirklichkeit – also unsere Umwelt/ unser Sein – zu verstehen. 
+In den letzten Wochen lasen wir das von Büchner verfasste Fragment Woyzeck, das zur Zeit des Frührealismus geschrieben wurde. Unser Ziel war, das Fragment werkübergreifend zu analysieren. Deshalb befassten wir uns mit der Zeitepoche, in der Woyzeck geschrieben wurde: dem Frührealismus. Um den Frührealismus richtig zu verstehen, mussten wir uns mit dem deutschen Idealismus auseinandersetzen, der von Philosophen geprägt wurde.  Die Philosophen waren der Meinung, dass das Denken und die Vernunft massgebend sind, um die Wirklichkeit – also unsere Umwelt/ unser Sein – zu verstehen. 
 
 ### Hegels Ideologie
 

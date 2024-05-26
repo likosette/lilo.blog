@@ -10,7 +10,11 @@ image = "kafka.jpg"
 
 *Wie in Kafkas Geschichte „die Verwandlung“ sind viele Familienverhältnisse heutzutage schwierig. Ein gutes Familienverhältnis scheint hier eher die Ausnahme zu sein. Doch waren schlechte Beziehungen innerhalb der Familie früher schon so geläufig? Und was hat Literatur damit zu tun?*
 
-**Hinweis**: Folgender Text ist ohne Recherche geschrieben worden. Alle Überlegungen wurden auf Grund meines Wissenstandes und meiner Wahrnehmung gemacht, daher ist der Blog keine vertrauenswürdige Informationsquelle. 
+**Hinweis**: Folgender Text ist ohne Recherche geschrieben worden. Alle Überlegungen wurden auf Grund meines Wissenstandes und meiner Wahrnehmung gemacht, daher ist der Blog keine vertrauenswürdige Informationsquelle.
+
+### Familienverhältnisse in der Verwandlung: 
+
+
 
 Die Verwandlung wurde vom Schriftsteller Franz Kafka im Jahre 1912 verfasst. Die Geschichte des Gregors stellte für die Menschen im 20. Jahrhundert eine klare Botschaft dar – doch fragt mich nicht, was die Botschaft ist. Ich habe sie nicht so ganz verstanden. Helfen die Geschichte zu verstehen und sie schliesslich interpretieren zu können, sollte uns die Textsicherung.  Wir teilten die Geschichte in Handlungsbögen ein und analysierten die Figurenentwicklung der Familienmitglieder. 
 

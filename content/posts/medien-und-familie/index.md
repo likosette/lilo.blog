@@ -18,6 +18,8 @@ Die Verwandlung wurde vom Schriftsteller Franz Kafka im Jahre 1912 verfasst. Die
 
 ### Schwierige Familienverhältnisse und Konsum:
 
+
+
 Zu klären ist vorab der Begriff «schwieriges Familienverhältnis»: Schwieriges Familienverhältnis ist nach meinem Verständnis ein Familienleben, das nicht funktioniert. Das heisst, wenn zwei oder mehrere Familienmitglieder endlos am Streiten sind, persönliche Grenzen nicht eingehalten werden oder ein Nein nicht akzeptiert wird und dies nicht nur einmal sondern mehrmals. Im Allgemeinen die Kommunikation innerhalb der Familie nicht funktioniert, da niemandem wirklich zugehört wird, und Stress oder Frust an Familienmitgliedern ausgelassen wird. 
 
 Sind heutzutage die Familienverhältnisse mehr zerrüttete als früher. Möglicherweise haben die schlechten Beziehungen innerhalb der Familie gar nicht zugenommen, die Menschen sprechen vielleicht einfach offener darüber. Das kann sein, doch finde ich das eher unwahrscheinlich. Erstens weil meiner Meinung nach Familienprobleme immer noch von vielen als Tabuthema angesehen wird. Zweitens Studien wie die der LMU München haben ergeben, dass insbesondere während sowie nach der Corona-Pandemie Familienprobleme zugenommen haben.  

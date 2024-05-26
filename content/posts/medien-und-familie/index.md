@@ -32,7 +32,7 @@ Heutzutage werden möglicherweise einfach mehr Familien als dysfunktionale Famil
 
 {{<box title= "Text über Text">}}
 
-
+Diesen Text zu schreiben, ist mir schwierig gefallen und auch mit dem Endresultat bin ich nicht ganz zufrieden. Ich habe das Gefühl, dass ich meine Gedanken nicht gut in Worte fassen und niederschreiben konnte. Auch die KI ChatGPT konnte mir dabei nicht helfen. Sie verstand meine Idee nicht und die Zeit, die ich verbraucht habe, hätte ich besser dem Schreiben gewidmet. Bei dem Schreiben und vor allem während dem Korrekturlesen habe ich gemerkt, dass ich die Sätze oft viel zu kompliziert gestaltet habe und auch unnötig komplizierte Wörter gebraucht habe. Dies möchte ich in Zukunft versuchen, zu vermeiden.  
 
 {{</box>}}
 

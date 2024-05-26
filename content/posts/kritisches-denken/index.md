@@ -8,8 +8,6 @@ image = "istockphoto-1173726696-612x612.jpg"
 +++
 ![https://greatergood.berkeley.edu/article/item/what_political_polarization_looks_like_in_the_brain](istockphoto-1173726696-612x612.jpg)
 
-
-
 Im Verlauf des diesigen Quartales haben wir – die M25c – im Deutschunterricht das kritische Denken vertieft angeschaut. Wieso brauchen wir kritisches Denken? Wann ist eine geeignete Situation kritisch zu denken? Und was genau ist überhaupt kritisches Denken?
 
 ### Kritisches Denken:
@@ -24,8 +22,9 @@ Beispiel: (Annahme: nasse Strasse wegen Regen) Wenn es regnet, dann ist die Stra
 
 In diesem Fall ist keine Prämisse falsch. Wenn es regnet, dann wird die Strasse höchstwahrscheinlich nass. Und in dem Beispiel ist die Strasse nass, weil es geregnet hat. Jedoch könnte die Strasse auch aus einem anderen Grund nass sein. So kann nicht geschlussfolgert werden, dass es geregnet haben muss. 
 
-Informale Fehlschlüsse betreffen die inhaltliche Qualität der Prämissen. Dies Bedeutet eine oder mehrere inkorrekte Prämissen, die Schlussfolgerung jedoch kann aus den Prämissen gezogen werden.
-Beispiel: Alle Menschen liebe Brokkoli. Peter ist ein Mensch. Also liebt er Brokkoli.
+Informale Fehlschlüsse betreffen die inhaltliche Qualität der Prämissen. Dies bedeutet, eine oder mehrere Prämissen sind inkorrekt, die Schlussfolgerung kann jedoch aus den Prämissen gezogen werden.
+
+Beispiel: Alle Menschen lieben Brokkoli. Peter ist ein Mensch, also liebt er Brokkoli.
 
 Wichtige informale Fehlschlüsse: 
 

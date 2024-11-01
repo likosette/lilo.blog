@@ -29,8 +29,9 @@ Das Tagebuchschreiben ist eine Form der Selbstfürsorge. In unserer hektischen W
 
 Tagebuchschreiben ist also eine wunderbare Möglichkeit, sich selbst besser kennenzulernen und zu mehr Achtsamkeit im Alltag zu gelangen. Es bietet einem sicheren Raum, um seine Gedanken und Gefühle frei zu erkunden und festzuhalten. Dabei geht es nicht darum, perfekte Texte zu schreiben, sondern sich selbst den Freiraum zu geben, zu wachsen und sich mit sich selbst auseinanderzusetzen. Wenn du das Tagebuchschreiben einmal ausprobierst, wirst du vielleicht merken, wie befreiend und bereichernd es sein kann – und wie es dir dabei hilft, auf eine neue Art mit dir selbst in Verbindung zu treten.
 
-
+{{<box title= "Text über Text">}}
 Dieser Text habe ich mit Hilfe von ChatGBT erstellt. Ich hatte Schwierigkeiten ein passendes Thema zu finden, da ich auch über etwas schreiben wollte, dass mich persönlich gerade beschäftigt, aber nicht allzu tiefgründig ist. Durch den Chat bin ich auf die Idee, über das Tagebuch zu schreiben, gekommen. Er hat mir auch die vier Gründe geliefert, welche ich mit meinen Überlegungen ergänzte und zu diesem Blogeintrag umwandelte. 
+{{</box>}}
 
-
+ 
 https://www.handschreiberei.com/single-post/Liebes-Tagebuch (Bild)

@@ -8,6 +8,8 @@ image = "r.jpg"
 +++
 Berlin, rund um 1920. Franz ist verloren in der Grossstadt – bald Hauptstadt eines sozialnationalistischen Deutschlands. Er läuft, es rutscht, das Leben fließt um ihn herum. Berlin lebt, atmet, drängt. Berlin Alexanderplatz soll nicht die Grossstadt darstellen, es ist die Grossstadt. Inwiefern kann daher der Roman als ein Geschichtsbuch betrachtet werden? 
 
+![https://www.fotocommunity.de/photo/berlin-alexanderplatz-sebastianwalter/30755014](r.jpg)
+
 ### Berlin Alexanderplatz:
 
 Der Roman Berlin Alexanderplatz begleiteten uns und stellten mich vor eine Herausforderung. Döblin, der Autor, wollte sich nicht dem typischen Erzählschlendrian hingeben. Sein Ziel war es nicht, bloß die Geschichte einer Figur zu erzählen, sondern die Vielseitigkeit und Komplexität Berlins darzustellen – das Buch soll Berlin sein.
@@ -35,3 +37,6 @@ Letztlich kann ein Roman Geschichte lebendig machen, sie erfahrbar und emotional
 Lange fiel mir keine Idee ein, über was ich im Blog schreiben möchte.  Vielleicht war ein Grund dafür, dass ich das Buch erst in den Sportferien fertiggelesen habe. Doch dann kam mir der Gedanke, dass Döblin mit Berlin Alexanderplatz die Grossstadt selbst darstellen wollte und wie Herr Beutler gesagt hat, dass der Autor fast den kommenden Krieg vorhergesagt habe. Da wollte ich den Vergleich zwischen einem Sachbuch und Roman versuchen aufzuschreiben. Gelingen wollte mir dies aber nicht. So gab ich ChatGPT meine These und ließ sie so lange anpassen, bis sie mir gefiel. So fuhr ich auch im Text weiter. Mir ist es schwer gefallen die passenden Ausdrücke zu finden. Auch meine Vorstellung im Kopf auf Papier zu bringen, war nicht einfach. So gab ich dem Chat an einigen Stellen eine grobe Fassung, von dem was ich wollte, und liess ihn den Text so lange verbessern, bis ich zufrieden war.
 
 {{</box>}}
+
+### Quellen
+Foto: https://www.fotocommunity.de/photo/berlin-alexanderplatz-sebastianwalter/30755014
